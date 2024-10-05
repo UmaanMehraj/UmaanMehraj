@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UmaanMehraj
 - 👀 I’m interested in AI, Data Analysis.
-- 🌱 I’m currently learning C.
+- 🌱 I’m currently learning Python.
 - 😄 Pronouns: HE!
 - ⚡ Fun fact: I am majoring in CS :)
 
