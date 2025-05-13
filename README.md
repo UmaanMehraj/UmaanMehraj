@@ -14,6 +14,6 @@ Currently:
   - Django
 
 # Hobbies
-- Read books
-- Write Poetry
-- And ofcourse, Videogames!
+- Books
+- Write _poetry_
+- And ofcourse, videogames!
