@@ -1,8 +1,19 @@
-# About Me
-Hi, I am Umaan Mehraj.
-<br>
-This is my Github profile.
-<br>
-I am interested in Web Dev, Data Anlaysis and Cyber Security.
-<br>
-I am currently learning Python!
+### Hey there 🖐️
+
+I am Umaan from the _Paradise on Earth_!
+Currently enrolled in an UnderGrad program in Computer Science & Engineering.
+
+
+# My Interests
+- AI & ML🤖
+- WebDev 🕸️
+
+# What am I learning
+Currently:
+  - C++
+  - Django
+
+# Hobbies
+- Read books
+- Write Poetry
+- And ofcourse, Videogames!
