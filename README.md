@@ -29,9 +29,10 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=UmaanMehraj&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=UmaanMehraj&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=UmaanMehraj&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<div><img align="right" src="https://github-readme-stats.vercel.app/api?username=UmaanMehraj&theme=radical&hide_border=false&include_all_commits=false&count_private=false"></div>
+<div><img align="left" src="https://nirzak-streak-stats.vercel.app/?user=UmaanMehraj&theme=radical&hide_border=false"></div>
+<div align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmaanMehraj&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"></div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=UmaanMehraj&icon=0&color=0)](https://visitcount.itsvg.in)
