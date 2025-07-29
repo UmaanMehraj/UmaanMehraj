@@ -30,8 +30,9 @@
 # 📊 GitHub Stats:
 
 
-<div><img align="right" src="https://github-readme-stats.vercel.app/api?username=UmaanMehraj&theme=radical&hide_border=false&include_all_commits=false&count_private=false"></div>
-<div><img align="left" src="https://nirzak-streak-stats.vercel.app/?user=UmaanMehraj&theme=radical&hide_border=false"></div>
+<div align="center"><img align="right" src="https://github-readme-stats.vercel.app/api?username=UmaanMehraj&theme=radical&hide_border=false&include_all_commits=false&count_private=false"></div>
+<div align="center"><img align="left" src="https://nirzak-streak-stats.vercel.app/?user=UmaanMehraj&theme=radical&hide_border=false"></div>
+<br>
 <div align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmaanMehraj&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"></div>
 
 ---
