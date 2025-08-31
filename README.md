@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently working on **enhancing my front-end development skills**
 
-- 🌱 I’m currently learning **Django, CSS & SASS**
+- 🌱 I’m currently learning **JavaScrip**
 
-- 🤝 I’m looking for help with **Django, as of now!**
+- 🤝 I’m looking for help with **Front-End Web-Dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
