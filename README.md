@@ -10,11 +10,11 @@
 ###
 
 
-- 🔭 I’m currently working on **enhancing my front-end development skills**
+- I’m currently working on **enhancing my front-end development skills**
 
-- 🌱 I’m currently learning **JavaScript**
+- I’m currently learning **JavaScript**
 
-- 🤝 I’m looking for help with **FrontEnd Web-Dev**
+- I’m looking for help with **FrontEnd Web-Dev**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
