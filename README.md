@@ -1,4 +1,4 @@
-I design & develop frontend systems <br>
+I design & develop systems <br>
 [Portfolio](https://umaan.me)
 
 
